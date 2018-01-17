@@ -4,7 +4,7 @@ class DB{
 	private $dbHost     = "localhost";
 	private $dbUsername = "homestead";
 	private $dbPassword = "secret";
-	private $dbName     = "codexworld";
+	private $dbName     = "";
 	private $imgTbl     = 'images';
 	
 	function __construct(){
